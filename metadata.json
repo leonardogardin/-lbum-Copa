@@ -1,0 +1,6 @@
+{
+  "name": "Album da Copa - Controle Escolar",
+  "description": "Sistema mobile para a professora gerenciar e organizar a entrega das figurinhas personalizadas do album da copa para seus alunos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
